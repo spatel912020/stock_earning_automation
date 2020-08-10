@@ -1,0 +1,97 @@
+1597076105792	geckodriver	INFO	Listening on 127.0.0.1:57703
+1597076105818	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecc8JjX"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597076108951	Marionette	INFO	Listening on port 41001
+1597076109029	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1597076126930	geckodriver	INFO	Listening on 127.0.0.1:50667
+1597076126935	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefBROPM"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597076130067	Marionette	INFO	Listening on port 46807
+1597076130150	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1597076133842	Marionette	INFO	Stopped listening on port 46807
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1597076139868	Marionette	INFO	Stopped listening on port 41001
+1597076259989	geckodriver	INFO	Listening on 127.0.0.1:33671
+1597076260996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5S0Lv6"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597076264366	Marionette	INFO	Listening on port 37551
+1597076264422	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://builder.lift.acquia.com/lift.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://builder.lift.acquia.com/lift.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://builder.lift.acquia.com/lift.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://builder.lift.acquia.com/lift.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://builder.lift.acquia.com/lift.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+1597076274734	Marionette	INFO	Stopped listening on port 37551
+1597076588001	geckodriver	INFO	Listening on 127.0.0.1:50659
+1597076588006	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL1hiry"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597076591038	Marionette	INFO	Listening on port 40153
+1597076591133	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597076615565	Marionette	INFO	Stopped listening on port 40153
+1597076641794	geckodriver	INFO	Listening on 127.0.0.1:53435
+1597076641798	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileusmn43"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597076644716	Marionette	INFO	Listening on port 36353
+1597076644825	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://builder.lift.acquia.com/lift.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://builder.lift.acquia.com/lift.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://builder.lift.acquia.com/lift.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://builder.lift.acquia.com/lift.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1597076657689	Marionette	INFO	Stopped listening on port 36353
+1597076671985	geckodriver	INFO	Listening on 127.0.0.1:51875
+1597076672990	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8CzvAf"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597076676368	Marionette	INFO	Listening on port 38691
+1597076676440	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://builder.lift.acquia.com/lift.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://builder.lift.acquia.com/lift.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+1597076684944	Marionette	INFO	Stopped listening on port 38691
