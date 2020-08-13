@@ -10,7 +10,7 @@ driver = webdriver.Chrome(executable_path=PATH)
 driver.get('https://nasdaq.com')
 
 # ADD ALL DESIRED STOCK TICKERS FOR WEB CRAWL
-stock_ticker = ['DIS', 'WM', 'WMT', 'CGC', 'MSFT']
+stock_ticker = ['DIS', 'WM', 'WMT', 'CGC', 'MSFT', 'TSLA']
 earning_list = {}
 
 # if you are using firefox brower, uncomment this section and comment google chrome section to run crawl
