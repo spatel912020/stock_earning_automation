@@ -1,7 +1,7 @@
 # stock_earning_automation
-Personal Project\ 
-Objective: Given a list of stock tickers, using selenium collect Earning per share data on them\
-Skills Involved: Web Crawling, Selenium\
+Personal Project <br />
+Objective: Given a list of stock tickers, using selenium collect Earning per share data on them <br />
+Skills Involved: Web Crawling, Selenium <br />
 
 Appropriate Webdrivers need to be used to and saved in Selenium Webdriver folder
 - Firefox and Chrome webdrivers are provided but need to be updated once in a while
